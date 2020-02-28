@@ -9,3 +9,9 @@ elsif int % 5 == 0
   end
 end
 
+def fizzbuzz (int)
+  if int % 3 && int % 5 == 0
+   "FizzBuzz"
+ end
+ end
+ 
